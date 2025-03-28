@@ -278,7 +278,7 @@ h6 {
   line-height: 0;
   transition: 0.5s;
   position: fixed;
-  left: 15px;
+  right: 15px;
   top: 15px;
 }
 
@@ -308,7 +308,7 @@ h6 {
 .navbar-mobile .mobile-nav-toggle {
   position: absolute;
   top: 15px;
-  left: 15px;
+  right: 15px;
 }
 
 .navbar-mobile ul {
